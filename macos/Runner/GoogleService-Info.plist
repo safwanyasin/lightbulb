@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985662232842-pillfccrce1eqlpaim98iljf1u3tbs0l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985662232842-pillfccrce1eqlpaim98iljf1u3tbs0l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>985662232842-0tlvsirrrhige0d5el7ln3d1vc2v96ag.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABSvizLT6Tl-s5WVWxry4U5fXdg4A2jlI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985662232842</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lightbulb</string>
+	<key>PROJECT_ID</key>
+	<string>lightbulb-703a1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lightbulb-703a1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985662232842:ios:725d34dc0a0da0afd782f3</string>
+</dict>
+</plist>

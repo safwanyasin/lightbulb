@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "985662232842",
+    "project_id": "lightbulb-703a1",
+    "storage_bucket": "lightbulb-703a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985662232842:android:e5697e6d8fad6d86d782f3",
+        "android_client_info": {
+          "package_name": "com.example.lightbulb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985662232842-6id6phtk950ai1lm4c3n2jmvcvjdn83h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lightbulb",
+            "certificate_hash": "03f0f61984daf3fe00c456cf0ad1019b310c2a31"
+          }
+        },
+        {
+          "client_id": "985662232842-ou6e91to9tc98cr9sq627kqmqu65gg95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yaBVcGrekwPPPrzFAAx-KHe6e1o-x5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985662232842-ou6e91to9tc98cr9sq627kqmqu65gg95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985662232842-pillfccrce1eqlpaim98iljf1u3tbs0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightbulb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985662232842:android:95fe4a9af5de07d8d782f3",
+        "android_client_info": {
+          "package_name": "com.example.project_file"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985662232842-0tlvsirrrhige0d5el7ln3d1vc2v96ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_file",
+            "certificate_hash": "090184a9324ddcca830ad405c61f3d4b29598a12"
+          }
+        },
+        {
+          "client_id": "985662232842-l54uet9e66dnee8hi2fekpqi8snsd4ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_file",
+            "certificate_hash": "5ea11924adba963d8561e520c6b17ee72fea299c"
+          }
+        },
+        {
+          "client_id": "985662232842-ou6e91to9tc98cr9sq627kqmqu65gg95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yaBVcGrekwPPPrzFAAx-KHe6e1o-x5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985662232842-ou6e91to9tc98cr9sq627kqmqu65gg95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985662232842-pillfccrce1eqlpaim98iljf1u3tbs0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightbulb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
