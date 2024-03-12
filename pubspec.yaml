@@ -29,7 +29,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  google_fonts: ^6.1.0
+  google_fonts: 6.1.0
   email_validator: ^2.1.17
   flutter_svg: ^2.0.9
   fluttertoast: ^8.1.2
