@@ -63,11 +63,6 @@ class _EditProfilePageState extends State<EditProfilePage> {
   String? bio = '';
   String? location = '';
   final _formKey = GlobalKey<FormState>();
-  // String uName = '';
-  // String uUsername = '';
-  // String uBio = '';
-  // String uLocation = '';
-  // String uProfpic = '';
   List<dynamic> followersList = ["dummy", "dummy"];
   List<dynamic> followingList = ["dummy", "dummy"];
   List<dynamic> followReq = ["dummy", "dummy"];
