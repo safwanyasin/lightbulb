@@ -506,11 +506,7 @@ class _SettingsPageState extends State<SettingsPage> {
                       QuerySnapshot au = await FirebaseFirestore.instance
                           .collection('activeUser')
                           .get();
-                      //for(int i = 0; i < au.docs.length; i++){
-                      // if(au.docs[i]["token"] == email){
-
-                      //}
-                      // }
+                      
                       SharedPreferences? prefs =
                           await SharedPreferences.getInstance();
                       prefs!.setBool('isLoggedIn', false);
