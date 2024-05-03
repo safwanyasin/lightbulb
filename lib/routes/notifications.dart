@@ -181,8 +181,6 @@ class _NotificationsPageState extends State<NotificationsPage> {
             'notThis');
       }
     }
-    //setState(() {
-    //});
   }
 
   Future onRemoveFromFollowing(String id) async {
